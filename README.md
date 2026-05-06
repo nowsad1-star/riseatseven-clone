@@ -24,7 +24,7 @@ This project recreates the homepage of Rise at Seven as closely as possible, inc
 - Footer CTA
 
 ## Live Demo
-Add your live deployed link here
+https://riseatseven-clone.netlify.app/
 
 ## GitHub Repository
-Add your GitHub repo link here
+
