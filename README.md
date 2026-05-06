@@ -27,4 +27,4 @@ This project recreates the homepage of Rise at Seven as closely as possible, inc
 https://riseatseven-clone.netlify.app/
 
 ## GitHub Repository
-
+https://github.com/nowsad1-star/riseatseven-clone.git
